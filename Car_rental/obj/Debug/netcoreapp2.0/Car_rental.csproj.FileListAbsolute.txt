@@ -1,0 +1,12 @@
+C:\Users\Michał\source\repos\Car_rental\Car_rental\bin\Debug\netcoreapp2.0\Car_rental.deps.json
+C:\Users\Michał\source\repos\Car_rental\Car_rental\bin\Debug\netcoreapp2.0\Car_rental.runtimeconfig.json
+C:\Users\Michał\source\repos\Car_rental\Car_rental\bin\Debug\netcoreapp2.0\Car_rental.runtimeconfig.dev.json
+C:\Users\Michał\source\repos\Car_rental\Car_rental\bin\Debug\netcoreapp2.0\Car_rental.dll
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.csprojResolveAssemblyReference.cache
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.AssemblyInfo.cs
+C:\Users\Michał\source\repos\Car_rental\Car_rental\bin\Debug\netcoreapp2.0\Car_rental.pdb
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.dll
+C:\Users\Michał\source\repos\Car_rental\Car_rental\obj\Debug\netcoreapp2.0\Car_rental.pdb
